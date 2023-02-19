@@ -1,4 +1,4 @@
-import javax.swing.*; // btl ke ni
+import javax.swing.*;
 import java.awt.*;
 
 public class StudentRegistrationForm extends JFrame {
